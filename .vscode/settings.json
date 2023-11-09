@@ -1,8 +1,0 @@
-{
-    "yaml.schemas": {
-        "https://json.schemastore.org/github-workflow.json": [
-            "file:///home/goldenjaden/Desktop/VS%20code%20projects/CodeX/workflows/tasks/npm-publish-and-notify-reusable.yml",
-            "file:///home/goldenjaden/Desktop/VS%20code%20projects/CodeX/workflows/tasks/bump-node-package-version-in-pr.yml"
-        ]
-    }
-}
